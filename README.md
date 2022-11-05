@@ -9,7 +9,7 @@
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/migel1234)
 
-[![Twitter URL](https://img.shields.io/static/v1?color=blue&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://www.linkedin.com/in/strtDev)
+[![Twitter URL](https://img.shields.io/static/v1?color=blue&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://www.twitter.com/strtDev)
 
 ## **I'm a Software Engineer, Technology enthusiast and what life has in stock.**
 
