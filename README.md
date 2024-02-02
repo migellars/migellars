@@ -1,7 +1,7 @@
-- 👋 Hi, my name is Michael but i prefer to be called Migel pronounced Miguel 😂
-- 🌱 I’m currently learning Python for AI and some new stuff out of tech which is not limited to vocational skill.
-- 💞️ I’m looking to collaborate on project that affects day-day life of humans and making it better for the living
-- 💬 **Ask me about**: .NET, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns.
+- 👋 Hi, my name is Michael but I prefer to be called Migel pronounced Miguel 😂
+- 🌱 I’m currently learning Python for AI and some new stuff out of tech which is not limited to vocational skills.
+- 💞️ I’m looking to collaborate on projects that affect the day-to-day life of humans and make it better for living
+- 💬 **Ask me about**: .NET, Azure Functions, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns.
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👇
 - ⚡ **Fun fact**: I love 🎵⚽🎮 👩
 
