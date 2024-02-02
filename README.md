@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michael Oluwaseun
+- 👋 Hi, my name is Michael but i prefer to be called Migel pronounced Miguel 😂
 - 🌱 I’m currently learning Python for AI and some new stuff out of tech which is not limited to vocational skill.
 - 💞️ I’m looking to collaborate on project that affects day-day life of humans and making it better for the living
 - 💬 **Ask me about**: .NET, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns.
