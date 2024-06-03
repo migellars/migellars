@@ -9,7 +9,7 @@
 
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://www.twitter.com/strtDev)
 
-## **I'm a Software Engineer, Technology enthusiast and what life has in stock.**
+## **I'm a Software Engineer and technology enthusiast and what life has in stock.**
 
 <!---
 migellars/migellars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
